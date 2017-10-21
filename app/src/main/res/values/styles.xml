@@ -1,0 +1,13 @@
+<resources>
+
+
+    <!-- Light application theme. -->
+    <style name="Light" parent="android:Theme.Material.Light">
+
+    </style>
+    <!-- Dark application theme. -->
+    <style name="Dark" parent="android:Theme.Material">
+
+    </style>
+
+</resources>
